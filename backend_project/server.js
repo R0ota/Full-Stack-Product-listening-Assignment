@@ -4,6 +4,8 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
+app.use("/images", express.static(path.join(__dirname, "images")));
+
 const PORT = 3000;
 
 app.use(cors());

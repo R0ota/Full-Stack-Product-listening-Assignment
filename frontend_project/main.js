@@ -24,7 +24,8 @@ function displayProducts(products) {
     productCard.classList.add("product-card");
 
     productCard.innerHTML = `
-    <img src="../backend_project/images/${product.image}" alt="${product.name}">
+    <img src="${product.image}" alt="${product.name}">
+    
             <h2>${product.name}</h2>
             <p> $${product.price} </p>
         `;
