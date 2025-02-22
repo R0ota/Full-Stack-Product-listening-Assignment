@@ -7,7 +7,7 @@
     "stock": 120,
     "rating": 4.5,
     "description": "High-quality wireless headphones with noise cancellation.",
-    "image": "http://localhost:3000/images/Wireless%20Headphones.webp"
+    "image": "Wireless Headphones.webp"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "stock": 50,
     "rating": 4.7,
     "description": "Latest model smartphone with an OLED display and 128GB storage.",
-    "image": "http://localhost:3000/images/Smartphone.jpg"
+    "image": "Smartphone.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "stock": 200,
     "rating": 4.3,
     "description": "Lightweight and comfortable running shoes for daily use.",
-    "image": "http://localhost:3000/images/Running%20Shoes.jpg"
+    "image": "Running Shoes.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "stock": 30,
     "rating": 4.8,
     "description": "Powerful gaming laptop with RTX 4060 and 16GB RAM.",
-    "image": "http://localhost:3000/images/Lenovo Ideapad 5.jpg"
+    "image": "Lenovo Ideapad 5.jpg"
   },
   {
     "id": 5,
@@ -47,6 +47,6 @@
     "stock": 80,
     "rating": 4.6,
     "description": "Automatic coffee maker with programmable settings.",
-    "image": "http://localhost:3000/images/Coffee Maker.webp"
+    "image": "Coffee Maker.webp"
   }
 ]

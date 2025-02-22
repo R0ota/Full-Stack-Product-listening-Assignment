@@ -24,11 +24,12 @@ function displayProducts(products) {
     productCard.classList.add("product-card");
 
     productCard.innerHTML = `
-    <img src="${product.image}" alt="${product.name}">
-    
-            <h2>${product.name}</h2>
-            <p> $${product.price} </p>
-        `;
+    <img src="http://localhost:3000/images/${product.image}" alt="${product.name}">
+    <div>
+      <h2>${product.name}</h2>
+      <p>$${product.price}</p>
+    </div>
+  `;
 
     productList.appendChild(productCard);
   });
